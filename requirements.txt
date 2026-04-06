@@ -15,8 +15,6 @@ flatbuffers==25.12.19
 fsspec==2026.3.0
 gast==0.7.0
 google-pasta==0.2.0
-# Editable install with no version control (gradient-ascent-cli==1.0.0)
--e /home/plastuchino/code/gradient-ascent-demo-project/cli
 grpcio==1.80.0
 h11==0.16.0
 h5py==3.14.0
